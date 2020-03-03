@@ -1,0 +1,5 @@
+Este é o exemplo de um ficheiro.
+
+Estou a fazer alteraçoes ao ficheiro
+
+ALTERAÇOES EFETUADAS NO BRANCH 'NOVAFEATURE'
